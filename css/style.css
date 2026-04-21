@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+a {
+    all: unset;
+    cursor: pointer;
+}
+
+body {
+    font-family: Inter, sans-serif;
+    font-weight: 700;
+    color: rgba(20, 20, 20, 1);
+}
+
+.site-footer {
+    background-color: #F5F5F5;
+}
